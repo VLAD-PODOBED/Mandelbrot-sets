@@ -1,0 +1,21 @@
+C:\Users\Ярослав\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Ярослав\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Ярослав\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Ярослав\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Ярослав\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Ярослав\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Ярослав\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Ярослав\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Ярослав\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Ярослав\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Новая папка\Mandelbrot sets\bin\Debug\WindowsFormsApp2.exe.config
+D:\Новая папка\Mandelbrot sets\bin\Debug\WindowsFormsApp2.exe
+D:\Новая папка\Mandelbrot sets\bin\Debug\WindowsFormsApp2.pdb
+D:\Новая папка\Mandelbrot sets\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\Новая папка\Mandelbrot sets\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+D:\Новая папка\Mandelbrot sets\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\Новая папка\Mandelbrot sets\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Новая папка\Mandelbrot sets\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Новая папка\Mandelbrot sets\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Новая папка\Mandelbrot sets\obj\Debug\WindowsFormsApp2.exe
+D:\Новая папка\Mandelbrot sets\obj\Debug\WindowsFormsApp2.pdb
